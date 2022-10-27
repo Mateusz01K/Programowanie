@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\w65546\\source\\repos\\lab2\\lab2\\lab2.csproj": {}
+    "C:\\Users\\w65546\\Desktop\\Programowanie-master\\lab2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\w65546\\source\\repos\\lab2\\lab2\\lab2.csproj": {
+    "C:\\Users\\w65546\\Desktop\\Programowanie-master\\lab2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\w65546\\source\\repos\\lab2\\lab2\\lab2.csproj",
+        "projectUniqueName": "C:\\Users\\w65546\\Desktop\\Programowanie-master\\lab2.csproj",
         "projectName": "lab2",
-        "projectPath": "C:\\Users\\w65546\\source\\repos\\lab2\\lab2\\lab2.csproj",
+        "projectPath": "C:\\Users\\w65546\\Desktop\\Programowanie-master\\lab2.csproj",
         "packagesPath": "C:\\Users\\w65546\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\w65546\\source\\repos\\lab2\\lab2\\obj\\",
+        "outputPath": "C:\\Users\\w65546\\Desktop\\Programowanie-master\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\w65546\\AppData\\Roaming\\NuGet\\NuGet.Config",

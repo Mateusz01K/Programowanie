@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ecDw8hZPJPq4ehpnbUu4/j48CU0a/Bjq6AZT1S1RsYY9bU/PXp30NgnaHxUXufmNNIQtb/RLwt4xedexG7SqrQ==",
+  "dgSpecHash": "KytBtYva5V6sNw2FFVqBf74gOPxeJy6fSPuLucGGhIeA1uNhPCzhyb9RIQevCHz7BxPNWVpsKceK0FP/T0d9Bw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\w65546\\source\\repos\\lab2\\lab2\\lab2.csproj",
+  "projectFilePath": "C:\\Users\\w65546\\Desktop\\Programowanie-master\\lab2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\w65546\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\w65546\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
